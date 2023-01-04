@@ -1,0 +1,2 @@
+# easy-rust
+🦀 Learning Rust
